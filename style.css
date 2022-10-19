@@ -1,0 +1,40 @@
+.heading{
+    font-size: 25px;
+    width:100%;
+    margin-top: 0px;
+    box-shadow: 5px 5px 40px plum;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: rgba(255, 0, 136, 0.85);
+    font-weight: bolder;
+    color:rgb(247, 184, 101);
+}
+
+.note{
+    font-size: 15px;
+    color:rgb(44, 2, 65);
+}
+
+#footer{
+    position: fixed;
+    bottom: 0px;
+    background-color: rgb(153, 247, 247);
+    width: 100%;
+    color:rgb(248, 142, 195);
+    font-size: 18px;
+    box-shadow: 5px 5px 30px greenyellow;
+    font-weight: bold;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+canvas{
+    margin-top: 50px;
+    border: 5px dotted plum;
+    border-radius: 10px;
+    box-shadow: 5px 5px 40px greenyellow;
+}
+
+body{
+    background-image: url('bg.png');
+}
